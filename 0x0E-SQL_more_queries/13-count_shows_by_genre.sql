@@ -83,15 +83,5 @@ ORDER BY number_of_shows DESC;
 ~
 ~
 ~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
 -- INSERT --                                                                                                                                                                  0,1           All
 
